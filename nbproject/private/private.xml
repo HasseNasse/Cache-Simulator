@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>test/model/CacheTest.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>42</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hassan/Documents/NetBeansProjects/cache-simulator/src/Startup_package/StartUp.java</file>
+            <file>file:/C:/Users/Hassan/Documents/NetBeansProjects/cache-simulator/src/model/Cache.java</file>
+            <file>file:/C:/Users/Hassan/Documents/NetBeansProjects/cache-simulator/src/controller/Controller.java</file>
+            <file>file:/C:/Users/Hassan/Documents/NetBeansProjects/cache-simulator/src/model/Observer.java</file>
+            <file>file:/C:/Users/Hassan/Documents/NetBeansProjects/cache-simulator/src/View/View.java</file>
+        </group>
+    </open-files>
+</project-private>
